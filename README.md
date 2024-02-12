@@ -1,1 +1,1 @@
-# RazorPay_Clone
+This repository is a clone of the popular payment gateway platform RazorPay. The purpose of this project is to provide a customizable, scalable, and secure alternative for online payment processing. It aims to replicate the core functionalities and features of RazorPay while allowing for easy integration into various web applications.
